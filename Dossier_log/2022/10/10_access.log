@@ -1,0 +1,59 @@
+100.64.49.38 -bosco- [14/Oct/2022:09:22:53 +0200] "GET /~bosco/BUT2/PHP/TD4/style.css HTTP/1.1" 200 436
+100.64.49.38 -alice- [14/Oct/2022:09:22:53 +0200] "GET /favicon.ico HTTP/1.1" 200 1406
+100.64.49.44 -aurion- [14/Oct/2022:09:22:53 +0200] "
+100.64.49.35 -gabriel- [14/Oct/2022:09:22:56 +0200] "GET /~gabriel/progweb/td4/ajoutSite.php HTTP/1.1" 200 1618
+100.64.48.84 -bosco- [14/Oct/2022:09:22:57 +0200] "GET /phpmyadmin/tbl_sql.php?db=emeric_restaurant&table=categorie&token=ab551fbd7344ad8201c81c9444f34493&ajax_request=true&ajax_page_request=true&menuHashes=245577c6
+100.64.49.35 -gabriel- [14/Oct/2022:09:22:58 +0200] "GET /~gabriel/progweb/td4/editSites.php HTTP/1.1" 200 2415
+100.64.48.84 -louis- [14/Oct/2022:09:22:58 +0200] "GET /phpmyadmin/index.php?ajax_request=1&recent_table=1&token=ab551fbd7344ad8201c81c9444f34493 HTTP/1.1" 200 1365
+100.64.49.35 -gabriel- [14/Oct/2022:09:23:01 +0200] "GET /~gabriel/progweb/td4/modifier.php?s&id=6 HTTP/1.1" 200 652
+100.64.48.84 -gabriel- [14/Oct/2022:09:23:00 +0200] "GET /phpmyadmin/sql.php?server=1&db=emeric_restaurant&table=achat&pos=0&token=ab551fbd7344ad8201c81c9444f34493&ajax_request=true&ajax_page_request=true&menuHashes=245577c6
+100.64.48.84 -bosco- [14/Oct/2022:09:23:01 +0200] "GET /phpmyadmin/index.php?ajax_request=1&recent_table=1&token=ab551fbd7344ad8201c81c9444f34493 HTTP/1.1" 200 1364
+100.64.49.35 -gabriel- [14/Oct/2022:09:23:03 +0200] "GET /~gabriel/progweb/td4/editSites.php HTTP/1.1" 200 2415
+100.64.48.75 -emma- [14/Oct/2022:09:23:03 +0200] "GET /phpmyadmin/sql.php?server=1&db=joe_db&table=PRESTATION&pos=0&token=a018cb3ec82971301f519604301b4046&ajax_request=true&ajax_page_request=true&menuHashes=731a4925
+100.64.48.75 -emma- [14/Oct/2022:09:23:03 +0200] "GET /phpmyadmin/sql.php?server=1&db=joe_db&table=PRESTATION&pos=0&token=a018cb3ec82971301f519604301b4046&ajax_request=true&ajax_page_request=true&menuHashes=731a4925
+100.64.49.44 -celine- [14/Oct/2022:09:23:05 +0200] "GET /~celine/PHP/td4/editSite.php?modifier=modifier HTTP/1.1" 200 1379
+100.64.49.44 -bosco- [14/Oct/2022:09:23:05 +0200] "GET /favicon.ico HTTP/1.1" 200 1406
+100.64.49.44 -celine- [14/Oct/2022:09:23:06 +0200] "GET /~celine/PHP/td4/editSite.php?modifier=modifier HTTP/1.1" 200 1379
+100.64.49.44 -celine- [14/Oct/2022:09:23:06 +0200] "GET /~celine/PHP/td4/editSite.php?modifier=modifier HTTP/1.1" 200 1379
+100.64.49.34 -aurion- [14/Oct/2022:09:23:06 +0200] "GET /~aurion/web_BUT2/td4/sites.php HTTP/1.1" 200 964
+100.64.49.44 -celine- [14/Oct/2022:09:23:06 +0200] "GET /~celine/PHP/td4/editSite.php?modifier=modifier HTTP/1.1" 200 1379
+100.64.49.44 -bosco- [14/Oct/2022:09:23:06 +0200] "GET /favicon.ico HTTP/1.1" 200 1406
+100.64.49.44 -celine- [14/Oct/2022:09:23:06 +0200] "GET /~celine/PHP/td4/editSite.php?modifier=modifier HTTP/1.1" 200 1379
+100.64.49.44 -alice- [14/Oct/2022:09:23:06 +0200] "GET /favicon.ico HTTP/1.1" 200 1406
+100.64.49.44 -celine- [14/Oct/2022:09:23:06 +0200] "GET /~celine/PHP/td4/editSite.php?modifier=modifier HTTP/1.1" 200 1379
+100.64.49.44 -julien- [14/Oct/2022:09:23:06 +0200] "GET /favicon.ico HTTP/1.1" 200 1406
+100.64.49.36 -bosco- [14/Oct/2022:09:23:09 +0200] "
+100.64.49.34 -aurion- [14/Oct/2022:09:23:12 +0200] "GET /~aurion/web_BUT2/td4/editSites.php HTTP/1.1" 200 2083
+100.64.49.34 -aurion- [14/Oct/2022:09:23:12 +0200] "GET /~aurion/web_BUT2/td4/style3.css HTTP/1.1" 404 232
+100.64.48.75 -louis- [14/Oct/2022:09:23:13 +0200] "GET /phpmyadmin/tbl_sql.php?db=joe_db&table=PRESTATION&token=a018cb3ec82971301f519604301b4046&ajax_request=true&ajax_page_request=true&menuHashes=731a4925
+100.64.48.75 -louis- [14/Oct/2022:09:23:13 +0200] "GET /phpmyadmin/tbl_sql.php?db=joe_db&table=PRESTATION&token=a018cb3ec82971301f519604301b4046&ajax_request=true&ajax_page_request=true&menuHashes=731a4925
+100.64.48.75 -emma- [14/Oct/2022:09:23:18 +0200] "POST /phpmyadmin/db_sql_autocomplete.php HTTP/1.1" 200 1890
+100.64.49.41 -jade- [14/Oct/2022:09:23:24 +0200] "GET /~jade/php/td4/ajout.php?m&id=%221%22 HTTP/1.1" 200 1079
+100.64.49.41 -jade- [14/Oct/2022:09:23:24 +0200] "GET /~jade/php/td4/formulaires.css HTTP/1.1" 404 231
+100.64.49.41 -jade- [14/Oct/2022:09:23:24 +0200] "GET /~jade/php/td4/ajout.php?m&id=%221%22 HTTP/1.1" 200 1079
+100.64.49.41 -jade- [14/Oct/2022:09:23:24 +0200] "GET /~jade/php/td4/formulaires.css HTTP/1.1" 404 231
+100.64.49.41 -jade- [14/Oct/2022:09:23:24 +0200] "GET /~jade/php/td4/ajout.php?m&id=%221%22 HTTP/1.1" 200 1079
+100.64.49.41 -jade- [14/Oct/2022:09:23:24 +0200] "GET /~jade/php/td4/formulaires.css HTTP/1.1" 404 231
+100.64.49.41 -jade- [14/Oct/2022:09:23:24 +0200] "GET /~jade/php/td4/ajout.php?m&id=%221%22 HTTP/1.1" 200 1079
+100.64.49.41 -jade- [14/Oct/2022:09:23:24 +0200] "GET /~jade/php/td4/formulaires.css HTTP/1.1" 404 231
+100.64.49.41 -jade- [14/Oct/2022:09:23:25 +0200] "GET /~jade/php/td4/ajout.php?m&id=%221%22 HTTP/1.1" 200 1079
+100.64.49.41 -jade- [14/Oct/2022:09:23:25 +0200] "GET /~jade/php/td4/formulaires.css HTTP/1.1" 404 231
+100.64.49.41 -jade- [14/Oct/2022:09:23:25 +0200] "GET /~jade/php/td4/formulaires.css HTTP/1.1" 404 231
+100.64.48.76 -louis- [14/Oct/2022:09:23:27 +0200] "POST /phpmyadmin/import.php HTTP/1.1" 200 471
+100.64.49.34 -aurion- [14/Oct/2022:09:23:33 +0200] "GET /~aurion/web_BUT2/td4/editSites.php HTTP/1.1" 200 2083
+100.64.49.34 -aurion- [14/Oct/2022:09:23:33 +0200] "GET /~aurion/web_BUT2/td4/style3.css HTTP/1.1" 200 206
+100.64.49.41 -jade- [14/Oct/2022:09:23:34 +0200] "GET /~jade/php/td4/ajout.php?m&id=1 HTTP/1.1" 200 1133
+100.64.49.41 -jade- [14/Oct/2022:09:23:34 +0200] "GET /~jade/php/td4/formulaires.css HTTP/1.1" 404 231
+100.64.49.41 -jade- [14/Oct/2022:09:23:34 +0200] "GET /~jade/php/td4/formulaires.css HTTP/1.1" 404 231
+100.64.48.87 -julien- [14/Oct/2022:09:23:36 +0200] "GET /phpmyadmin/index.php?ajax_request=1&recent_table=1&token=ae7af252389fcc02f829c6bbbc17bacc HTTP/1.1" 200 1418
+100.64.48.76 -louis- [14/Oct/2022:09:23:36 +0200] "POST /phpmyadmin/import.php HTTP/1.1" 200 2054
+100.64.48.87 -bosco- [14/Oct/2022:09:23:39 +0200] "GET /phpmyadmin/tbl_change.php?db=jessica_restaurant&table=DEPOT&token=ae7af252389fcc02f829c6bbbc17bacc&ajax_request=true&ajax_page_request=true&menuHashes=e84dc427
+100.64.48.87 -aurion- [14/Oct/2022:09:23:39 +0200] "GET /phpmyadmin/js/get_scripts.js.php?scripts%5B%5D=sql.js&scripts%5B%5D=big_ints.js&call_done=1 HTTP/1.1" 200 8592
+100.64.48.87 -aurore- [14/Oct/2022:09:23:39 +0200] "GET /phpmyadmin/themes/pmahomme/img/b_calendar.png HTTP/1.1" 200 638
+100.64.48.87 -aurore- [14/Oct/2022:09:23:39 +0200] "GET /phpmyadmin/themes/pmahomme/img/b_calendar.png HTTP/1.1" 200 638
+100.64.48.76 -gabriel- [14/Oct/2022:09:23:40 +0200] "GET /phpmyadmin/sql.php?server=1&db=loica_db&table=PRESTATION&pos=0&token=78eb4f11a8ecf7e0ebbf393b3d107859&ajax_request=true&ajax_page_request=true&menuHashes=be8834da
+100.64.48.76 -bosco- [14/Oct/2022:09:23:41 +0200] "GET /phpmyadmin/index.php?ajax_request=1&recent_table=1&token=78eb4f11a8ecf7e0ebbf393b3d107859 HTTP/1.1" 200 1411
+100.64.49.47 -julien- [14/Oct/2022:09:23:46 +0200] "GET /~julien/devWEB/td4/sites.php HTTP/1.1" 200 710
+100.64.49.47 -aurion- [14/Oct/2022:09:23:46 +0200] "GET /favicon.ico HTTP/1.1" 200 1406
+100.64.49.35 -gabriel- [14/Oct/2022:09:23:46 +0200] "GET /~gabriel/progweb/td4/editSites.php HTTP/1.1" 200 2415
+100.64.49.35 -gabriel- [14/Oct/2022:09:23:46 +0200] "GET /~gabriel/progweb/td4/editSites.php HTTP/1.1" 200 2415
